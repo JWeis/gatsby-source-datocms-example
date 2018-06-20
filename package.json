@@ -1,0 +1,22 @@
+{
+  "name": "gatsby-source-datocms-graphql-example",
+  "version": "0.0.2",
+  "description": "This is a test package for DatoCMS-GraphQL API with Gatsby",
+  "main": "",
+  "private": false,
+  "scripts": {
+    "test": "exit 0"
+  },
+  "keywords": [
+    "gatsby",
+    "datocms",
+    "graphql",
+    "plugin"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "graphql-request": "^1.6.0"
+  }
+}
